@@ -1,0 +1,4 @@
+[submodule "ace-utils-java"]
+	path = ace-utils-java
+	url = https://github.com/mverhiel/ace-utils-java.git
+	branch = main
